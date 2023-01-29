@@ -1,19 +1,19 @@
 import sys
-import math_expression
-from math_expression_error import *
+import eval_math_expression
+from eval_math_expression_error import *
 
 def main():
     try:
-        math_expression = ''.join(sys.argv[1].split())
+        expression = ''.join(sys.argv[1].split())
     except IndexError:
         sys.exit(0)
-    if not math_expression:
+    if not expression:
         sys.exit(0)
-    elif not math_expression.check_parentheses(math_expression):
+    elif not eval_math_expression.check_parentheses(expression):
         print('\u001b[33m[*] Some parentheses are missing  [*]\u001b[0m')
         sys.exit(1)
     try:
-        result = math_expression.eval_math(math_expression)
+        result = eval_math_expression.eval_math(expression)
     except MathExpressionError as err:
         print(f'\u001b[31m[!] {err} [!]\u001b[0m')
         sys.exit(1)
