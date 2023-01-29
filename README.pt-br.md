@@ -1,8 +1,8 @@
 # calc-cli-python
 
 Read this in other languages:
-- [English](https://github.com/JVbitsSoft/calc-cli-python/blob/main/README.md)
-- [Portuguese (Brazil)](https://github.com/JVbitsSoft/calc-cli-python/blob/main/README.pt-br.md)
+- [English](https://github.com/joaovictorvns/calc-cli-python/blob/main/README.md)
+- [Portuguese (Brazil)](https://github.com/joaovictorvns/calc-cli-python/blob/main/README.pt-br.md)
 
 Este repositório apresenta uma ferramenta de linha de comando de cálculo matemático escrita em Python, oferecendo suporte para uma ampla gama de funções matemáticas, operadores e conversões de unidades.
 
