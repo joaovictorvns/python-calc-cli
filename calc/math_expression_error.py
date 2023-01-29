@@ -1,0 +1,2 @@
+class MathExpressionError(ArithmeticError):
+    pass
