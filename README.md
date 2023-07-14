@@ -1,4 +1,4 @@
-# calc-cli-python
+# python-calc-cli (Project under development)
 
 Read this in other languages:
 - [English](https://github.com/joaovictorvns/calc-cli-python/blob/main/README.md)
@@ -11,7 +11,7 @@ This repository features a command-line math calculation tool written in Python,
 Below is the usage tutorial:
 
 1.  After downloading the repository, open the repository directory in the terminal.
-2.  Type the following command in the terminal: `python calc 'mathematical expression'`. For example, to calculate 1 + 1, type: `python calc '1 + 1'`
+2.  Type the following command in the terminal: `.\python-calc 'mathematical expression'`. For example, to calculate 1 + 1, type: `.\python-calc '1 + 1'`
 3.  Press enter. The result will be displayed in the terminal.
 
 Note: Make sure Python is installed on your machine before using the calculator.
@@ -76,4 +76,4 @@ Note: All functions and constants must be written in lowercase. Additionally, th
 ## Requirements
 
 -   Python version: 3.10+
--   Operating System: Windows, Linux
+-   Operating System: Windows

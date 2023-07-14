@@ -1,2 +1,0 @@
-class MathExpressionError(ArithmeticError):
-    pass

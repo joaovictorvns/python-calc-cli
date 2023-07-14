@@ -1,6 +1,6 @@
-# calc-cli-python
+# python-calc-cli (Projeto em Desenvolvimento)
 
-Read this in other languages:
+Leia isto em outros idiomas:
 - [English](https://github.com/joaovictorvns/calc-cli-python/blob/main/README.md)
 - [Portuguese (Brazil)](https://github.com/joaovictorvns/calc-cli-python/blob/main/README.pt-br.md)
 
@@ -11,7 +11,7 @@ Este repositório apresenta uma ferramenta de linha de comando de cálculo matem
 A seguir, o tutorial de uso:
 
 1. Após baixar o repositório, abra o diretório do repositório no terminal.
-2. Digite o seguinte comando no terminal: `python calc 'expressão matemática'`. Por exemplo, para calcular 1 + 1, digite: `python calc '1 + 1'`
+2. Digite o seguinte comando no terminal: `.\python-calc 'expressão matemática'`. Por exemplo, para calcular 1 + 1, digite: `.\python-calc '1 + 1'`
 3. Pressione enter. O resultado será exibido no terminal.
 
 Observação: Certifique-se de que o Python está instalado em sua máquina antes de usar a calculadora.
@@ -76,4 +76,4 @@ Observação: Todas as funções e constantes devem ser escritos em minúsculas.
 ## Requisitos
 
 -   Versão do Python: 3.10+
--   Sistema Operacional: Windows, Linux
+-   Sistema Operacional: Windows
